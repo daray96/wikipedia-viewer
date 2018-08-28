@@ -1,4 +1,4 @@
-$(document).ready(function(){
+(function(){
   
   //Cuando se clickea en el boton de busqueda se corre el siguiente codigo
   
@@ -41,4 +41,4 @@ $(document).ready(function(){
       }
     });
   
-});
+}());

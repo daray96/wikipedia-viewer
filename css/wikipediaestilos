@@ -1,0 +1,70 @@
+body{
+    background: #A6ADAB;
+    padding:0;
+    margin: 10% 0% 0% 0%;
+    position: relative;
+}
+
+.titulo{
+    text-align: center;
+    margin-top: 1%;
+}
+
+.titulo h1 {
+	font-family:'Cinzel', serif;
+    margin-bottom: 0;
+}
+
+h3 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    margin-top: 0;
+    text-align: center;
+    color: #3D403F !important;
+}
+
+h3 a {
+	text-align: center;
+    color: #3D403F !important;
+}
+
+
+button {
+    background: #A6ADAB;
+    color: #3D403F;
+}
+
+.glyphicon {
+	position: relative;
+    top: 0;
+    bottom: 0;
+}
+
+.output {
+  font-family: 'Open Sans Condensed', sans-serif;
+  
+}
+
+.articulos{
+  border-radius: 5px;
+  background:none;
+  color: #3D403F;
+  border-color:#3D403F;
+  border-style:solid;
+  margin:1%;
+  border-width:2px;
+}
+
+.articulos:hover{
+  border-radius: 5px;
+  background:white;
+  color: #3D403F;
+  border-color:#3D403F;
+  border-style:solid;
+  margin:1%;
+  border-width:2px;
+}
+
+a:hover{
+  text-decoration: none;
+}
+

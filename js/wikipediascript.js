@@ -1,3 +1,5 @@
+var $ = jQuery;
+
 (function(){
   
   //Cuando se clickea en el boton de busqueda se corre el siguiente codigo
